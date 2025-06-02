@@ -13,7 +13,7 @@ A fun and retro-style Snake game built using **Python** and **Pygame**. Eat the 
 - Custom fonts and textures
 - Win and game over screens
 - Keyboard controls
-- Fully playable in a 1000x1000 grid
+- Fully playable in a 25x25 grid
 
 ---
 

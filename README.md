@@ -2,7 +2,7 @@
 
 A fun and retro-style Snake game built using **Python** and **Pygame**. Eat the apple, grow the snake, and try not to crash!
 
-![Snake Game Screenshot](image.png) <!-- Optional: Add a screenshot of gamepla -->
+![Snake Game Screenshot](image1.png) <!-- Optional: Add a screenshot of gamepla -->
 
 ---
 
